@@ -1,0 +1,4 @@
+# Database SQL Settings
+
+SQL_SERVER_HOST = 
+SQL_SERVER_PORT = 
